@@ -1,5 +1,5 @@
 
-# 📱 [App Name]  
+# 📱 [Point Of Sale app]  
 
 ### 🛠️ **Overview**  
 [App Name] is a [brief description of the app]. This application is built using Flutter, designed to deliver [key feature or purpose of the app].  
